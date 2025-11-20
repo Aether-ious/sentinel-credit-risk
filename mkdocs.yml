@@ -1,0 +1,6 @@
+site_name: Sentinel Credit Risk Docs
+theme: material
+nav:
+  - Home: index.md
+  - 'Model approach': model_approach.md
+  - 'API Reference': api.md

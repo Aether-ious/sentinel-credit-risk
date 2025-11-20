@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "sentinel-credit-risk"
+version = "0.1.0"
+description = "End-to-End MLOps Credit Risk Engine"
+authors = ["Your Name <you@example.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+# Data & Features
+pandas = "^2.2.0"
+numpy = "^1.26.0"
+dvc = "^3.48.0"           # Data Version Control
+great-expectations = "*"  # Data Quality Tests
+
+# Modeling & AutoML
+scikit-learn = "^1.4.0"
+xgboost = "^2.0.0"
+lightgbm = "^4.3.0"
+optuna = "^3.5.0"         # Intelligent AutoML
+shap = "^0.44.0"          # Explainability (XAI)
+
+# MLOps & Tracking
+mlflow = "^2.11.0"
+
+# API & App
+fastapi = "^0.110.0"
+uvicorn = "^0.27.0"
+streamlit = "^1.32.0"
+
+# Monitoring
+evidently = "^0.4.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+mkdocs = "^1.5.0"         # Documentation Website
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+

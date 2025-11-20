@@ -1,0 +1,34 @@
+sentinel-credit-risk/
+├── .github/workflows/         # CI/CD: The Robots
+│   ├── tests.yml              # Run Unit Tests on push
+│   └── deploy.yml             # Build Docker & Push on release
+├── config/                    # Configuration files (YAML/Hydra)
+│   └── config.yaml            # Hyperparams, paths, feature lists
+├── data/                      # Controlled by DVC (Not in Git)
+│   ├── raw/                   # Immutable source data
+│   ├── processed/             # Cleaned features
+│   └── reference/             # Golden dataset for monitoring
+├── docs/                      # Documentation (MkDocs)
+│   ├── index.md               # The Blog/Tutorial
+│   └── model_card.md          # Governance docs
+├── models/                    # Saved Models (Pickle/ONNX)
+├── notebooks/                 # Experiments (Sandpit)
+├── src/                       # The Production Code (Package)
+│   ├── __init__.py
+│   ├── data_ingestion.py      # ETL Pipelines
+│   ├── features.py            # Feature Engineering (WoE, IV)
+│   ├── train.py               # Training logic (Manual + Auto)
+│   ├── predict.py             # Inference logic
+│   └── monitoring.py          # Drift detection
+├── tests/                     # Unit & Integration Tests
+│   ├── test_data.py           # Test data quality
+│   ├── test_model.py          # Test model logic
+│   └── test_api.py            # Test API endpoints
+├── app/                       # The Serving Layer
+│   ├── main.py                # FastAPI
+│   └── ui.py                  # Streamlit Dashboard
+├── Dockerfile                 # Container definition
+├── docker-compose.yml         # Run App + MLflow + Prometheus together
+├── dvc.yaml                   # Data Pipeline definition
+├── pyproject.toml             # Dependencies
+└── README.md                  # The Entry Point
