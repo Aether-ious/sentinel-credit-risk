@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/a01815709c3d43479fae4c6e82f42d01/artifacts
+end_time: 1763617443217
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: a01815709c3d43479fae4c6e82f42d01
+run_name: placid-lynx-189
+run_uuid: a01815709c3d43479fae4c6e82f42d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443183
+status: 3
+tags: []
+user_id: codespace

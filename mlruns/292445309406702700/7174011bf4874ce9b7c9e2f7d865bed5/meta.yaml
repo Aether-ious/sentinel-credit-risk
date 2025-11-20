@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/7174011bf4874ce9b7c9e2f7d865bed5/artifacts
+end_time: 1763617443550
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: 7174011bf4874ce9b7c9e2f7d865bed5
+run_name: Optuna_Optimization_Parent
+run_uuid: 7174011bf4874ce9b7c9e2f7d865bed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443060
+status: 3
+tags: []
+user_id: codespace

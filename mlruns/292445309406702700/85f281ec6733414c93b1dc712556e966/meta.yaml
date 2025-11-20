@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/85f281ec6733414c93b1dc712556e966/artifacts
+end_time: 1763617443111
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: 85f281ec6733414c93b1dc712556e966
+run_name: aged-flea-494
+run_uuid: 85f281ec6733414c93b1dc712556e966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443084
+status: 3
+tags: []
+user_id: codespace

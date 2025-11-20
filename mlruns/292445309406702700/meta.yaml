@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700
+creation_time: 1763617381631
+experiment_id: '292445309406702700'
+last_update_time: 1763617381631
+lifecycle_stage: active
+name: Sentinel_Credit_Risk_Engine

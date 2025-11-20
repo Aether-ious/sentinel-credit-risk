@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/a8232b11e6ff45ecb3626f2466ccd382/artifacts
+end_time: 1763617443434
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: a8232b11e6ff45ecb3626f2466ccd382
+run_name: adventurous-shad-247
+run_uuid: a8232b11e6ff45ecb3626f2466ccd382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443401
+status: 3
+tags: []
+user_id: codespace

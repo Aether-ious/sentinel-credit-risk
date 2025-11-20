@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/f3097b8fd0654e248ee69d44e670561f/artifacts
+end_time: 1763617443301
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: f3097b8fd0654e248ee69d44e670561f
+run_name: blushing-snake-288
+run_uuid: f3097b8fd0654e248ee69d44e670561f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443277
+status: 3
+tags: []
+user_id: codespace

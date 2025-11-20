@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/8b98b589e8484378b9d96a1b32a6395c/artifacts
+end_time: 1763617443166
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: 8b98b589e8484378b9d96a1b32a6395c
+run_name: unleashed-smelt-567
+run_uuid: 8b98b589e8484378b9d96a1b32a6395c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443131
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sentinel-credit-risk/mlruns/292445309406702700/c47c531f04f24fde9d9ac0039128dba9/artifacts
+end_time: 1763617443544
+entry_point_name: ''
+experiment_id: '292445309406702700'
+lifecycle_stage: active
+run_id: c47c531f04f24fde9d9ac0039128dba9
+run_name: masked-jay-551
+run_uuid: c47c531f04f24fde9d9ac0039128dba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617443523
+status: 3
+tags: []
+user_id: codespace
